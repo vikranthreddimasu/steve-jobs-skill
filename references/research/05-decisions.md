@@ -1,452 +1,452 @@
-# Steve Jobs 重大决策分析
+# Steve Jobs — Major Decision Analysis
 
-> 按时间线组织，聚焦决策逻辑、背景、结果与思维模式。
-> 调研时间：2026-04-05
-
----
-
-## 一、早期决策（1972-1976）
-
-### 1.1 退学Reed College，但继续旁听（1972-1974）
-
-**背景**：Jobs的养父母是工薪阶层，Reed College学费昂贵。Jobs入学一个学期后感到迷茫——不知道大学教育对自己有什么意义，也不愿花掉养父母的全部积蓄。
-
-**决策**：退学，但不离开校园。继续住在朋友宿舍、旁听感兴趣的课程，包括莎士比亚、现代舞，以及最关键的——Robert Palladino的书法课。
-
-**决策逻辑**：
-- 拒绝为「看不到意义的事」付出代价（经济理性）
-- 但不放弃学习本身，只是拒绝制度化的学习路径（反体制直觉）
-- 跟随好奇心而非职业规划（connecting the dots backwards）
-
-**结果**：书法课让Jobs理解了serif与sans-serif字体、字间距、排版美学。十年后Mac成为第一台拥有多种字体和等比字距的个人电脑。Jobs在2005年斯坦福演讲中说：「如果我没有旁听那门书法课，Mac永远不会有多种字体和等比字距。」
-
-**体现的思维模式**：
-- **先做减法**：砍掉不值得的投入，腾出空间给真正有意义的事
-- **相信直觉与延迟回报**：当下看不到用处不等于没有价值
-- **反制度思维**：拒绝既定路径，自己设计学习方式
-
-**信息来源**：Reed College官方页面、Wikipedia Steve Jobs词条、2005 Stanford Commencement Address（高可信度）
+> Organized by timeline, focusing on decision logic, context, outcome, and thinking pattern.
+> Research date: 2026-04-05
 
 ---
 
-### 1.2 创立Apple（1976）
+## I. Early decisions (1972–1976)
 
-**背景**：21岁的Jobs和26岁的Wozniak在Jobs家车库里合作。Wozniak是技术天才，但对商业化没有太大兴趣。Jobs看到了个人电脑的商业前景。
+### 1.1 Dropped out of Reed College, kept auditing (1972–1974)
 
-**决策**：说服Wozniak将Apple I商业化，而不仅仅是在Homebrew Computer Club分享技术方案。
+**Background**: Jobs's adoptive parents were working class; Reed College was expensive. After one term, Jobs felt lost — he didn't know what college meant for him, and didn't want to spend his parents' entire savings.
 
-**决策逻辑**：
-- Wozniak发明了产品，Jobs发明了市场
-- 将技术从爱好者圈子推向大众消费市场
-- 选择「让产品到达用户手中」而非「做最好的技术」
+**Decision**: drop out, but don't leave campus. Kept living in friends' dorms, audited courses he was interested in — Shakespeare, modern dance, and most importantly, Robert Palladino's calligraphy class.
 
-**结果**：Apple Computer于1976年4月1日成立。Apple II成为第一款真正的大众个人电脑，1977年上市后年收入从1977年的77.5万美元暴增至1980年的1.17亿美元。
+**Decision logic**:
+- Refused to pay for "things he couldn't see meaning in" (economic rationality)
+- But didn't give up learning itself — just rejected the institutionalized path (anti-establishment intuition)
+- Followed curiosity, not career planning (connecting the dots backwards)
 
-**体现的思维模式**：
-- **产品思维而非技术思维**：技术只有到达用户手中才有价值
-- **说服力作为核心能力**：Jobs不写代码，但他能让写代码的人相信更大的愿景
+**Outcome**: the calligraphy class taught Jobs about serif and sans-serif fonts, kerning, and typographic aesthetics. Ten years later, the Mac became the first personal computer with multiple fonts and proportional spacing. In his 2005 Stanford speech: "If I had never dropped in on that single calligraphy class, the Mac would never have had multiple typefaces or proportionally spaced fonts."
 
-**信息来源**：Wikipedia、Britannica（高可信度）
+**Thinking pattern**:
+- **Subtract first**: cut what isn't worth it, free up space for what's truly meaningful
+- **Trust intuition and delayed payoff**: not seeing a use right now doesn't mean no value
+- **Anti-institutional thinking**: refuse the prescribed path; design your own way of learning
 
----
-
-## 二、被逐出Apple（1985）
-
-### 2.1 与Sculley的权力斗争
-
-**背景**：1983年Jobs亲自从百事可乐挖来John Sculley担任Apple CEO（经典台词：「你想一辈子卖糖水，还是改变世界？」）。但Lisa和初代Mac销量不及预期，IBM PC主导了市场。到1985年初，Sculley的地位反而因Mac的商业失败而增强——董事会认为问题出在Jobs的管理能力上。
-
-**决策**：Jobs在1985年4月10日的董事会上发起攻击，试图推动罢免Sculley。但计划被泄露，董事会一致支持Sculley。
-
-**决策逻辑**：
-- Jobs认为Sculley不懂产品，正在把Apple变成一家平庸的公司
-- 选择了正面对抗而非迂回策略
-- 低估了董事会对「可预测的管理者」vs「不可控的天才」的偏好
-
-**结果**：Jobs被剥夺所有管理职责，1985年9月17日正式递交辞呈。Sculley后来承认自己当时「太缺乏经验，没有认识到Jobs作为产品远见者的潜在价值」。
-
-**事后反思**：这是Jobs人生最重要的转折点。他后来多次表示「被Apple炒掉是我人生最好的事」——因为它打破了成功者的傲慢，迫使他从零开始。
-
-**体现的思维模式**：
-- **全有或全无**：Jobs不接受折中方案（这既是优势也是弱点）
-- **低估政治力量**：Jobs的判断力在产品上极强，在组织政治上却反复犯错
-- **将挫败转化为叙事燃料**：被驱逐的故事成为他日后「英雄归来」叙事的核心
-
-**信息来源**：Corporate Governance Institute案例分析、ABC News、Mac History、Cult of Mac、TNW Sculley访谈（高可信度，多个独立来源交叉验证）
+**Sources**: Reed College official page, Wikipedia Steve Jobs entry, 2005 Stanford Commencement Address (high credibility)
 
 ---
 
-## 三、流放期（1985-1997）
+### 1.2 Founded Apple (1976)
 
-### 3.1 创建NeXT Computer
+**Background**: 21-year-old Jobs and 26-year-old Wozniak working out of Jobs's parents' garage. Wozniak was a technical genius but not particularly interested in commercialization. Jobs saw the commercial potential of personal computers.
 
-**背景**：离开Apple后，Jobs带走几名Apple员工创办NeXT，目标是高端教育和商业市场。
+**Decision**: convinced Wozniak to commercialize the Apple I — not just share the design at the Homebrew Computer Club.
 
-**决策**：打造「完美的电脑」——不妥协于成本和市场需求，追求工程极致。
+**Decision logic**:
+- Wozniak invented the product; Jobs invented the market
+- Push the technology from the hobbyist circle to the mass consumer market
+- Choose "get the product into users' hands" over "make the best technology"
 
-**决策逻辑**：
-- 一种「我要证明没有我Apple什么都不是」的复仇心理
-- 对「完美产品」的执念没有因商业失败而减弱
-- 押注面向对象编程的软件架构（NEXTSTEP操作系统）
+**Outcome**: Apple Computer founded April 1, 1976. Apple II became the first true mass-market personal computer. After its 1977 launch, annual revenue went from $775,000 in 1977 to $117 million in 1980.
 
-**结果**：
-- **硬件失败**：NeXT电脑售价6,500美元，在被Sun Microsystems等低价竞品碾压后，90年代初Jobs被迫放弃硬件，转型为纯软件公司
-- **软件成功**：NEXTSTEP操作系统在技术上极为先进，后来成为Mac OS X的基础。Tim Berners-Lee在NeXT电脑上发明了万维网
-- **管理成长**：NeXT的小团队环境让Jobs学会了更多的管理耐心和技术细节把控
+**Thinking pattern**:
+- **Product thinking, not technology thinking**: technology only has value when it reaches users' hands
+- **Persuasion as a core ability**: Jobs didn't write code, but he could make the people who did believe in a bigger vision
 
-**体现的思维模式**：
-- **对完美的执念是一把双刃剑**：让他做出了技术上最先进的系统，但也让他错判了市场
-- **即使失败也要播下种子**：NeXT的技术DNA后来重生于Mac OS X，没有NeXT就没有Apple的第二春
-- **学会pivot**：从硬件转软件是Jobs罕见的战略妥协，证明他不是完全不可教化
-
-**信息来源**：Bloomberg「The Wilderness, 1985-1997」、Wikipedia、WebProNews新书报道（高可信度）
+**Sources**: Wikipedia, Britannica (high credibility)
 
 ---
 
-### 3.2 Pixar：从硬件公司到动画帝国
+## II. Forced out of Apple (1985)
 
-**背景**：1986年，Jobs以1,000万美元从Lucasfilm手中收购Graphics Group（后更名Pixar）。他最初将Pixar视为高端图形硬件和软件公司，产品是Pixar Image Computer，卖给医学影像和情报机构。
+### 2.1 The power struggle with Sculley
 
-**决策**：
-1. 初期坚持硬件路线（失败）
-2. 经过数年亏损后，逐渐将重心转向动画部门
-3. 最关键的决策：持续为Pixar注资（最终投入超过5,000万美元），没有在最困难时卖掉
+**Background**: in 1983 Jobs personally recruited John Sculley from Pepsi as Apple's CEO (the famous line: "Do you want to sell sugar water for the rest of your life, or do you want to change the world?"). But the Lisa and the original Mac sold below expectations; the IBM PC dominated the market. By early 1985, Sculley's position had actually strengthened because of the Mac's commercial failure — the board concluded the problem was Jobs's management.
 
-**决策逻辑**：
-- 最初的商业判断是错误的（以为Pixar是硬件公司）
-- 但对Pixar动画团队（John Lasseter等）的创造力有直觉判断
-- 在长期亏损中展现了罕见的耐心——这与他在Apple时期的急躁形成鲜明对比
+**Decision**: at the April 10, 1985 board meeting, Jobs launched an offensive trying to push for Sculley's removal. The plan leaked; the board unanimously sided with Sculley.
 
-**结果**：
-- 1995年《Toy Story》上映，同周Pixar IPO，Jobs一夜之间成为纸面上的亿万富翁
-- Pixar后续作品（《虫虫危机》《怪物公司》《海底总动员》）每部都是票房炸弹
-- 2006年Disney以74亿美元收购Pixar，Jobs成为Disney最大个人股东（持股7%），同时进入Disney董事会
+**Decision logic**:
+- Jobs believed Sculley didn't understand product and was turning Apple into a mediocre company
+- Chose direct confrontation rather than indirect strategy
+- Underestimated the board's preference for "predictable manager" over "uncontrollable genius"
 
-**体现的思维模式**：
-- **耐心是学来的**：流放期的Jobs比Apple时期的Jobs更有耐心
-- **认错但不放弃**：接受硬件方向错误，但没有丢掉整个投资
-- **艺术直觉**：理解「故事」和「情感」的商业价值，而非只看技术指标
+**Outcome**: Jobs was stripped of all management responsibility. On September 17, 1985, he formally resigned. Sculley later admitted he was "too inexperienced at the time to recognize Jobs's potential value as a product visionary."
 
-**信息来源**：Biography.com、Britannica、Founders Podcast（David Senra）、Bloomberg（高可信度）
+**Hindsight**: this was the most important turning point of Jobs's life. He repeatedly said "getting fired from Apple was the best thing that ever happened to me" — because it broke the success-driven arrogance and forced a restart from zero.
+
+**Thinking pattern**:
+- **All or nothing**: Jobs didn't accept compromise (both a strength and a weakness)
+- **Underestimating organizational politics**: Jobs's judgment was extremely strong on product but repeatedly failed in organizational politics
+- **Convert setback into narrative fuel**: the story of being thrown out became the core of his later "hero's return" narrative
+
+**Sources**: Corporate Governance Institute case study, ABC News, Mac History, Cult of Mac, TNW Sculley interview (high credibility, multiple independent sources cross-validated)
 
 ---
 
-### 3.3 与Disney的谈判：从决裂到收购
+## III. The wilderness (1985–1997)
 
-**背景**：Pixar与Disney的发行协议让Disney拥有Pixar角色的所有权和续集权利，利润分配也对Pixar不利。Jobs要求更公平的条款，但时任Disney CEO Michael Eisner拒绝让步。
+### 3.1 Founded NeXT Computer
 
-**关键时间线**：
-- **2004年1月**：Jobs公开宣布不再与Disney合作——这是一步极其大胆的棋，因为Pixar当时依赖Disney的发行网络
-- **2005年**：Bob Iger接替Eisner成为Disney CEO。Iger上任数天内就打电话给Jobs，不谈生意，而是提出把ABC的内容放到iPod上——这个姿态让Jobs对Iger刮目相看
-- **2005年底**：Iger在香港迪士尼乐园观看花车游行时顿悟——过去十年Disney创造的角色中，唯一有价值的全是Pixar的。他意识到Disney必须买下Pixar
-- **2006年1月24日**：Disney宣布以74亿美元全股票收购Pixar
+**Background**: after leaving Apple, Jobs took a few Apple employees and founded NeXT, targeting high-end education and business markets.
 
-**Jobs对Iger的评价**（揭示了他的谈判哲学）：
-> 「这就是我喜欢Bob Iger的原因。他直接说出来了。按传统谈判规则这是最蠢的事——把牌全亮出来。他说'我们完了'。我立刻喜欢上了这个人，因为我也是这么做事的。」
+**Decision**: build "the perfect computer" — no compromise on cost or market demand; pursue engineering extreme.
 
-**体现的思维模式**：
-- **敢于切断退路**：公开宣布不再合作，倒逼对方换人
-- **人比条款重要**：与Eisner谈不拢是因为人不对，与Iger一拍即合是因为风格匹配
-- **真诚比策略更有效**：Jobs最欣赏的谈判方式是「把牌全亮出来」，而非算计
+**Decision logic**:
+- A "I'll prove Apple is nothing without me" revenge psychology
+- His obsession with "the perfect product" wasn't dampened by commercial failure
+- Bet on object-oriented programming software architecture (NEXTSTEP OS)
 
-**信息来源**：Jim Hill Media（Isaacson传记引用）、Shortform/Bob Iger回忆录分析、Stratrix战略分析（高可信度）
+**Outcome**:
+- **Hardware failure**: NeXT computers priced at $6,500, crushed by lower-priced competitors like Sun Microsystems. By the early 1990s Jobs was forced to abandon hardware and pivot to a pure software company
+- **Software success**: the NEXTSTEP OS was technically far ahead of its time; it later became the foundation of Mac OS X. Tim Berners-Lee invented the World Wide Web on a NeXT computer
+- **Management growth**: the small-team environment at NeXT taught Jobs more management patience and technical-detail control
 
----
+**Thinking pattern**:
+- **Obsession with perfection is double-edged**: led to the technically most advanced system, but misjudged the market
+- **Even failure plants seeds**: NeXT's tech DNA was reborn in Mac OS X — without NeXT there's no Apple second act
+- **Learned to pivot**: from hardware to software was a rare strategic compromise from Jobs — proving he wasn't completely uneducable
 
-## 四、回归Apple（1997-2011）
-
-### 4.1 砍掉90%产品线
-
-**背景**：1997年Jobs回归时，Apple濒临破产——12个月亏损超过10亿美元，裁员3,800人，距离破产只有90天现金流。Apple当时有数十条产品线，大量重叠、自相竞争。
-
-**决策**：
-1. 砍掉70%的产品和项目
-2. 终止Newton、Cyberdog、OpenDoc等项目
-3. 结束Mac克隆授权计划
-4. 画出著名的「四格矩阵」：消费者/专业 × 台式/笔记本，只做4个产品
-
-**决策逻辑**：
-- 「专注意味着对一千件事说不」
-- 让Apple的有限资源集中在少数能做到极致的产品上
-- 克隆授权分散了Mac的市场份额，自相残杀
-
-**结果**：从1997年净亏损10.5亿美元，到1998年盈利3.09亿美元——仅用一年时间。
-
-**体现的思维模式**：
-- **减法思维**：Jobs的标志性能力——知道什么不做
-- **勇于杀死项目**：即使有团队投入了大量心血，不符合核心战略就砍
-- **四格矩阵的优雅**：用一张图就能向全公司解释战略方向
-
-**信息来源**：YourStory、Hello StepChange、Wikipedia、TheHistoryOfComputing.net（高可信度，多源交叉验证）
+**Sources**: Bloomberg "The Wilderness, 1985–1997," Wikipedia, WebProNews new-book coverage (high credibility)
 
 ---
 
-### 4.2 微软1.5亿美元投资与Think Different
+### 3.2 Pixar: from hardware company to animation empire
 
-**背景**：Apple需要现金和软件支持。Jobs做了一个让Apple粉丝愤怒的决定——接受微软的1.5亿美元投资，并承诺在Mac上预装IE和Office。
+**Background**: in 1986, Jobs bought the Graphics Group from Lucasfilm for $10 million (later renamed Pixar). He initially saw Pixar as a high-end graphics hardware and software company; the product was the Pixar Image Computer, sold to medical imaging and intelligence agencies.
 
-**决策**：
-1. 放下与微软的「圣战」，接受实用主义合作
-2. 同时发起Think Different广告战役，重建Apple的品牌灵魂
+**Decision**:
+1. Initially insisted on a hardware path (failed)
+2. After years of losses, gradually shifted focus to the animation department
+3. The most critical decision: continued to fund Pixar (over $50 million invested), didn't sell it at the toughest point
 
-**决策逻辑**：
-- 活下来比面子重要（实用主义）
-- Think Different不是在卖产品，是在重新定义Apple是谁——「疯狂的人、不墨守成规的人、改变世界的人」
-- 先赢回员工的信心，再赢回市场
+**Decision logic**:
+- Initial business judgment was wrong (thought Pixar was a hardware company)
+- But had intuitive judgment about the creative power of the Pixar animation team (John Lasseter and others)
+- Showed rare patience through long-running losses — sharply contrasting with the impatience of his Apple years
 
-**结果**：微软投资稳定了Apple的财务。Think Different则从内部文化层面重塑了Apple的精神——让员工重新相信自己在做伟大的事。
+**Outcome**:
+- 1995: *Toy Story* released; Pixar IPO'd the same week; Jobs became a paper billionaire overnight
+- Subsequent works (*A Bug's Life*, *Monsters, Inc.*, *Finding Nemo*) were all box-office bombs in his favor
+- 2006: Disney acquired Pixar for $7.4 billion; Jobs became Disney's largest individual shareholder (7%) and joined the Disney board
 
-**体现的思维模式**：
-- **战略柔性**：为了生存可以暂时放下原则
-- **品牌即文化**：Think Different不是广告，是宣言
-- **内外并行**：一手解决财务危机，一手重建精神图腾
+**Thinking pattern**:
+- **Patience is learned**: the wilderness-era Jobs was more patient than the Apple-era Jobs
+- **Admit the error without abandoning**: accepted the hardware direction was wrong, but didn't drop the whole investment
+- **Artistic intuition**: understood the commercial value of "story" and "emotion," not just technical metrics
 
-**信息来源**：MediaShower、Apple Wikipedia条目（高可信度）
-
----
-
-### 4.3 iPod/iTunes生态系统（2001-2003）
-
-**背景**：2001年，数字音乐正在被Napster等盗版服务颠覆。唱片公司恐惧数字化，但也无力对抗。市场上的MP3播放器体验糟糕。
-
-**决策**：
-1. 2001年推出iPod（不是第一个MP3播放器，但是最好的）
-2. 2003年推出iTunes Music Store——每首歌99美分
-3. 关键策略：将iPod、iTunes软件、iTunes Store三者构建为一个封闭但完整的生态系统
-
-**与唱片公司的谈判逻辑**：
-- Jobs利用盗版的威胁作为筹码：「数字化洪流不可逆转，你们可以选择跟盗版对抗，也可以选择跟我合作」
-- 提出让用户合法、便宜、方便地购买音乐，比打击盗版更有效
-- 说服五大唱片公司全部加入（这本身就是谈判奇迹）
-
-**结果**：
-- iTunes Store上线6天卖出100万首歌，第一年卖出7,000万首
-- 8年内Apple售出3亿台iPod、100亿首数字音乐
-- Apple超越沃尔玛和百思买成为全球最大音乐零售商
-- 更重要的是：iTunes Store验证了「硬件+软件+内容」三位一体生态的商业模式，为后来的App Store铺路
-
-**体现的思维模式**：
-- **系统思维**：不是做一个产品，是做一个生态系统
-- **利用恐惧做杠杆**：唱片公司怕盗版，Jobs提供了「比盗版更好的合法替代品」
-- **用户体验即竞争壁垒**：99美分+一键购买+自动同步，让合法购买比盗版更方便
-
-**信息来源**：Rolling Stone、Press.Farm、Trapital、Apple Insider（高可信度）
+**Sources**: Biography.com, Britannica, Founders Podcast (David Senra), Bloomberg (high credibility)
 
 ---
 
-### 4.4 iPhone：放弃实体键盘的豪赌（2004-2007）
+### 3.3 Negotiating with Disney: from break to acquisition
 
-**背景**：2007年之前，智能手机市场由Nokia、BlackBerry、Motorola主导，所有设备都有实体键盘。BlackBerry的物理按键有肌肉记忆，用户可以盲打。
+**Background**: the Pixar–Disney distribution agreement gave Disney ownership of Pixar characters and sequel rights, with profit splits unfavorable to Pixar. Jobs demanded fairer terms; then–Disney CEO Michael Eisner refused to budge.
 
-**决策**：
-1. 完全取消实体键盘，采用全触屏设计
-2. 不用手写笔（stylus），只用手指——多点触控
-3. 将iPod、手机和互联网通讯设备三合一
+**Key timeline**:
+- **January 2004**: Jobs publicly announced no further collaboration with Disney — an extremely bold move, since Pixar relied on Disney's distribution network at the time
+- **2005**: Bob Iger replaced Eisner as Disney CEO. Within days of taking office, Iger called Jobs — not to talk business, but to propose putting ABC content on the iPod. The gesture made Jobs see Iger differently
+- **Late 2005**: at a parade at Hong Kong Disneyland, Iger had an epiphany — the only valuable characters Disney had created over the past decade were all from Pixar. He realized Disney had to buy Pixar
+- **January 24, 2006**: Disney announced the all-stock $7.4 billion acquisition of Pixar
 
-**决策逻辑**：
-- Jobs相信软件定义的界面比硬件按键更灵活——屏幕可以根据场景变化
-- 实体键盘占据了手机一半的空间，取消它等于把整个正面都变成屏幕
-- 「如果我们能做出一个足够好的软键盘，我们就能做出一台全新的设备」
+**Jobs's view of Iger** (revealing his negotiation philosophy):
+> "That's why I love Bob Iger. He just said it. By traditional negotiation rules that's the dumbest thing — laying all your cards on the table. He said 'we're done.' I immediately liked the guy, because that's how I do things too."
 
-**风险**：
-- 用户已经形成了对实体键盘的肌肉记忆
-- 2007年demo时iPhone原型极其不稳定——工程师们紧张到在台下喝酒壮胆
-- 整个行业都在嘲笑：时任微软CEO Steve Ballmer说「没有键盘的手机不可能卖给商务用户」
+**Thinking pattern**:
+- **Willing to cut off the retreat**: publicly declared no more collaboration, forcing the other side to change personnel
+- **People matter more than terms**: couldn't agree with Eisner because the person was wrong; clicked with Iger because the style matched
+- **Sincerity beats strategy**: Jobs's preferred negotiation style was "lay all the cards on the table," not maneuver
 
-**Corning Gorilla Glass的故事**：
-Jobs打电话给Corning CEO Wendell Weeks，要求他在几个月内量产一种从未量产过的超强玻璃。Weeks说做不到。Jobs说：「你知道你最大的问题是什么吗？你太害怕了。」Corning最终做到了。
-
-**结果**：iPhone彻底重新定义了智能手机，不到两年就让Nokia和BlackBerry走向衰落。截至2026年，iPhone仍然是全球最成功的消费电子产品之一。
-
-**体现的思维模式**：
-- **赌未来而非迎合现在**：所有市场调研都说用户需要实体键盘，Jobs选择无视
-- **现实扭曲力场**：逼Corning做出「不可能」的产品
-- **整合而非叠加**：三个设备合为一个，而不是给手机加功能
-
-**信息来源**：Digit.in、Fortune（Corning CEO访谈）、Yahoo Finance、Wikipedia（高可信度）
+**Sources**: Jim Hill Media (Isaacson biography citation), Shortform/Bob Iger memoir analysis, Stratrix strategy analysis (high credibility)
 
 ---
 
-### 4.5 App Store：从封闭到平台（2008）
+## IV. Returned to Apple (1997–2011)
 
-**背景**：iPhone最初是完全封闭的系统，Jobs不允许第三方应用——他担心质量控制和安全问题。
+### 4.1 Cut 90% of the product line
 
-**决策**：2008年推出App Store，开放第三方开发者入驻，但保留审核权和30%分成。
+**Background**: in 1997 when Jobs returned, Apple was near bankruptcy — losses of over $1 billion in 12 months, layoffs of 3,800 people, only 90 days of cash flow until bankruptcy. Apple had dozens of product lines, heavily overlapping and self-cannibalizing.
 
-**决策逻辑**：
-- Jobs最初的封闭直觉并非毫无道理——他担心糟糕的第三方App毁掉iPhone体验
-- 但他也看到了平台效应的巨大潜力：让数百万开发者为iPhone创造价值
-- 折中方案：开放但有门槛——所有App必须经过Apple审核
+**Decision**:
+1. Cut 70% of products and projects
+2. Killed Newton, Cyberdog, OpenDoc and others
+3. Ended the Mac clone licensing program
+4. Drew the famous "four-square matrix": consumer/pro × desktop/portable — make only 4 products
 
-**结果**：App Store彻底改变了软件分发方式，创造了一个价值数千亿美元的生态系统。它验证了「控制+开放」的中间路线。
+**Decision logic**:
+- "Focus means saying no to a thousand things"
+- Concentrate Apple's limited resources on a few products that can be done excellently
+- Clone licensing fragmented Mac market share, cannibalizing itself
 
-**体现的思维模式**：
-- **受控的开放**：不是完全开放（Android路线），也不是完全封闭——而是Apple审核过的开放
-- **愿意修正初始判断**：Jobs最初反对第三方App，但能在证据面前改变立场
-- **30%的天才**：建立了一个让Apple持续从生态系统中获益的商业模式
+**Outcome**: from a 1997 net loss of $1.05 billion to a 1998 profit of $309 million — in just one year.
 
-**信息来源**：Apple Wikipedia、综合科技媒体报道（高可信度）
+**Thinking pattern**:
+- **Subtractive thinking**: Jobs's signature ability — knowing what not to do
+- **Brave enough to kill projects**: even with teams that had invested heavily, if it didn't fit the core strategy, cut it
+- **Elegance of the four-square matrix**: a single chart could explain the strategic direction to the whole company
 
----
-
-### 4.6 对Flash的战争（2010）
-
-**背景**：Adobe Flash在2010年仍然是网页多媒体的主流技术。但iPhone从第一天起就不支持Flash，引发了巨大争议。Google的Android阵营公开支持Flash，将其作为对抗iPhone的差异化策略。
-
-**决策**：2010年4月29日，Jobs发表公开信《Thoughts on Flash》，系统性地解释了Apple拒绝Flash的六大理由。
-
-**六大理由**：
-1. Flash不是开放标准（尽管Adobe声称是）
-2. Flash的安全漏洞是Mac平台头号安全威胁
-3. Flash严重消耗电池和性能
-4. Flash不支持触控操作（依赖hover等鼠标事件）
-5. 不愿让第三方软件层介入平台和开发者之间
-6. HTML5、CSS3、JavaScript是更好的替代方案
-
-**决策逻辑**：
-- 这不仅是技术判断，更是平台控制权的争夺
-- Jobs不愿意让Adobe成为iPhone生态的「守门人」
-- 更深层的原因：如果App都用Flash开发，Apple就无法控制用户体验
-
-**结果**：
-- 短期内Apple承受了巨大舆论压力
-- 长期来看Jobs完全正确：2017年Adobe宣布停止开发Flash，2020年12月31日Flash正式终结
-- HTML5成为移动网页标准
-
-**体现的思维模式**：
-- **愿意做不受欢迎的决定**：明知会被骂，依然坚持
-- **技术直觉极准**：在Flash如日中天时就看到了它的死亡
-- **平台控制权意识**：绝不让第三方控制自己平台的核心体验
-- **用公开信定义叙事**：不是私下拒绝，而是公开陈述理由，争取舆论
-
-**信息来源**：Apple官方公开信、TechCrunch、AppleInsider、Web Design Museum（高可信度，一手来源）
+**Sources**: YourStory, Hello StepChange, Wikipedia, TheHistoryOfComputing.net (high credibility, multi-source cross-validated)
 
 ---
 
-## 五、健康决策（2003-2011）
+### 4.2 Microsoft's $150M investment and Think Different
 
-### 5.1 拒绝手术，选择替代医学（2003-2004）
+**Background**: Apple needed cash and software support. Jobs made a decision that infuriated Apple fans — accepting Microsoft's $150 million investment, and committing to bundle IE and Office on Macs.
 
-**背景**：2003年，Jobs被诊断出患有胰腺神经内分泌肿瘤——这是胰腺癌中极为罕见的一种，治愈率相对较高（相比更常见的胰腺腺癌，这几乎是「幸运」的诊断）。医生建议立即手术。
+**Decision**:
+1. Set aside the "holy war" with Microsoft and accept pragmatic cooperation
+2. At the same time, launch the Think Different ad campaign to rebuild Apple's brand soul
 
-**决策**：拒绝手术，转而尝试替代疗法——素食、针灸、草药、果汁疗法、灵性咨询，甚至咨询了一位灵媒。延迟了9个月才接受手术（2004年7月）。
+**Decision logic**:
+- Surviving matters more than face (pragmatism)
+- Think Different wasn't selling product — it was redefining who Apple was: "the crazy ones, the misfits, the ones who change the world"
+- Win back employees first, then the market
 
-**决策逻辑**（Jobs自述给Isaacson）：
-- 「我不想让我的身体被打开……我不想被那样侵犯」
-- 他一直信奉自然疗法和东方哲学
-- 可能的心理机制：一个习惯「控制一切」的人，面对自己无法控制的事情时，选择了「否认」
+**Outcome**: Microsoft's investment stabilized Apple's finances. Think Different reshaped Apple's spirit at the cultural level — let employees believe again that they were doing something great.
 
-**结果**：
-- 9个月的延迟可能让癌细胞扩散
-- Jobs后来深深后悔这个决定
-- 他对传记作者Isaacson说：「他想谈这件事，他后悔了。他觉得他应该更早做手术。」
-- 2011年10月5日，Jobs去世，享年56岁
+**Thinking pattern**:
+- **Strategic flexibility**: willing to set aside principles temporarily to survive
+- **Brand as culture**: Think Different wasn't an ad — it was a manifesto
+- **Internal and external in parallel**: solving the financial crisis with one hand, rebuilding the spiritual totem with the other
 
-**体现的思维模式**：
-- **现实扭曲力场的阴暗面**：在产品领域，扭曲现实能创造奇迹；在医学领域，扭曲现实可能致命
-- **控制欲的代价**：Jobs一生都在控制产品的每个像素，面对身体时他试图用同样的方式「控制」——选择自己相信的疗法，而非听从专业判断
-- **即使是天才也有盲区**：在商业和产品上的卓越直觉，并不自动转移到健康决策上
-
-**信息来源**：Walter Isaacson传记（ABC News引用）、Scientific American、Psychology Today、CBC News、Hollywood Reporter、PMC/NIH学术分析（高可信度，一手传记来源+医学专业分析）
+**Sources**: MediaShower, Apple Wikipedia entry (high credibility)
 
 ---
 
-## 六、管理决策
+### 4.3 The iPod / iTunes ecosystem (2001–2003)
 
-### 6.1 选择Tim Cook（1998-2011）
+**Background**: in 2001, digital music was being upended by piracy services like Napster. Record labels feared digitization but were powerless to fight back. The MP3 player experience on the market was terrible.
 
-**背景**：1998年Jobs从Compaq挖来Tim Cook担任运营高级副总裁。Cook是供应链管理专家，与Jobs的性格互补——Cook冷静、有条理、执行力极强。
+**Decision**:
+1. 2001: launch iPod (not the first MP3 player, but the best)
+2. 2003: launch iTunes Music Store — 99 cents a song
+3. Key strategy: build iPod, iTunes software, and iTunes Store as a closed but complete ecosystem
 
-**Tim Cook的关键贡献**：
-- 入职7个月内将Apple的库存周转从30天压缩到6天
-- 库存价值从4亿美元降至7,800万美元
-- 引入「准时制」（Just-in-Time）库存管理系统
-- 掌控Apple全球供应链、销售和服务
+**Logic of negotiating with the labels**:
+- Jobs used the threat of piracy as leverage: "the digital tide is irreversible — you can fight piracy, or you can work with me"
+- Argued that letting users buy music legally, cheaply, and conveniently was more effective than fighting piracy
+- Persuaded all five major labels to join (a negotiation miracle in itself)
 
-**Jobs选择Cook作为继任者的逻辑**：
-- Apple从来没有经历过「专业的CEO交接」——之前的接班都是在危机中仓促发生
-- Jobs不想让Apple再经历一次1985年的混乱
-- Jobs给Cook的建议：「永远不要问'我会怎么做'，做正确的事就好。」
-- 这句话本身就揭示了Jobs的自知之明——他知道自己的方式不可复制
+**Outcome**:
+- iTunes Store sold 1 million songs in 6 days; 70 million in the first year
+- Within 8 years Apple sold 300 million iPods and 10 billion songs
+- Apple surpassed Walmart and Best Buy as the world's largest music retailer
+- More importantly: iTunes Store validated the "hardware + software + content" three-in-one ecosystem business model, paving the way for the App Store
 
-**结果**：Cook于2011年8月接任CEO。在他的领导下，Apple从3,000亿美元市值成长为全球首家万亿美元公司（2018年）。
+**Thinking pattern**:
+- **Systems thinking**: not building a product — building an ecosystem
+- **Use fear as leverage**: labels feared piracy; Jobs offered "a legal alternative better than piracy"
+- **User experience as competitive moat**: 99¢ + one-click purchase + automatic sync made buying legally more convenient than piracy
 
-**体现的思维模式**：
-- **找互补而非复制品**：Jobs没有找一个「迷你乔布斯」，而是找了一个在他最弱的领域最强的人
-- **制度化而非个人英雄主义**：意识到Apple不能永远依赖一个人的直觉
-- **放手的智慧**：「不要问我会怎么做」是Jobs最后的管理遗训
-
-**信息来源**：Fortune（2026年3月Tim Cook访谈）、Wikipedia、Supply Chain Today、CBS Sunday Morning（高可信度，一手访谈来源）
-
----
-
-### 6.2 保密文化
-
-**背景**：Apple的保密文化在科技行业中独树一帜，Jobs亲手设计了这套体系。
-
-**决策**：建立「终极需知文化」——不同部门的员工被禁止讨论各自项目，甚至高级工程师在产品正式发布前都不知道最终产品的全貌。
-
-**Jobs的解释**：他说这个做法借鉴了Walt Disney——Disney认为如果过多关注幕后运作，就会削弱Disney的「魔法」。
-
-**决策逻辑**：
-- 保密创造惊喜：Apple产品发布会的震撼效果依赖于信息的严格保密
-- 保密防止竞争对手提前应对
-- 保密也是一种管理工具：迫使团队专注于自己的任务，而非关注其他人在做什么
-
-**代价**：
-- 内部协作效率可能降低
-- 员工之间缺乏信任感
-- 高度保密导致外部合作者（如供应商）有时无法及时配合
-
-**体现的思维模式**：
-- **控制叙事**：Jobs不仅控制产品，还控制关于产品的信息流
-- **惊喜即价值**：「One more thing...」的效果只有在完全保密的前提下才能实现
-- **以结果倒推流程**：为了发布日的「魔法时刻」，整个公司的信息流都要重新设计
-
-**信息来源**：Fortune「The Secrets Apple Keeps」、Adam Lashinsky《Inside Apple》、Research Methodology（高可信度）
+**Sources**: Rolling Stone, Press.Farm, Trapital, Apple Insider (high credibility)
 
 ---
 
-## 七、决策模式总结
+### 4.4 iPhone: the bet on dropping the physical keyboard (2004–2007)
 
-### 贯穿一生的核心思维模式
+**Background**: pre-2007, the smartphone market was dominated by Nokia, BlackBerry, and Motorola — all with physical keyboards. BlackBerry had muscle-memory keys; users could type without looking.
 
-| 模式 | 描述 | 代表性决策 |
+**Decision**:
+1. Eliminate the physical keyboard entirely; full touchscreen
+2. No stylus — only fingers, multi-touch
+3. Combine iPod, phone, and internet communicator into one
+
+**Decision logic**:
+- Jobs believed software-defined interfaces are more flexible than hardware buttons — the screen can change with context
+- Physical keyboards take half the phone's space; eliminating them turns the entire front into a screen
+- "If we can build a good enough soft keyboard, we can build a brand-new device"
+
+**Risk**:
+- Users had formed muscle memory around physical keyboards
+- The 2007 demo iPhone prototype was extremely unstable — engineers were so anxious they drank in the audience to calm down
+- The whole industry mocked it: then-Microsoft CEO Steve Ballmer said "a phone with no keyboard cannot be sold to business users"
+
+**The Corning Gorilla Glass story**:
+Jobs called Corning CEO Wendell Weeks and demanded he mass-produce a never-before-mass-produced super-strong glass within months. Weeks said it couldn't be done. Jobs said: "Do you know what your biggest problem is? You're too afraid." Corning ultimately did it.
+
+**Outcome**: the iPhone fundamentally redefined the smartphone; within two years it sent Nokia and BlackBerry into decline. As of 2026, iPhone remains one of the most successful consumer electronics products ever.
+
+**Thinking pattern**:
+- **Bet on the future, not appease the present**: all market research said users needed physical keyboards; Jobs ignored it
+- **Reality Distortion Field**: forced Corning to make an "impossible" product
+- **Integrate, don't stack**: three devices in one — not adding features to a phone
+
+**Sources**: Digit.in, Fortune (Corning CEO interview), Yahoo Finance, Wikipedia (high credibility)
+
+---
+
+### 4.5 App Store: from closed to platform (2008)
+
+**Background**: the iPhone was originally a fully closed system. Jobs didn't allow third-party apps — he worried about quality control and security.
+
+**Decision**: launch the App Store in 2008, open to third-party developers, but retain review authority and a 30% cut.
+
+**Decision logic**:
+- Jobs's original closed instinct wasn't unreasonable — he worried bad third-party apps would ruin the iPhone experience
+- But he saw the enormous platform-effect potential: millions of developers creating value for the iPhone
+- The compromise: open with a gatekeeper — every app must pass Apple review
+
+**Outcome**: the App Store fundamentally changed software distribution and created an ecosystem worth hundreds of billions of dollars. It validated the middle path of "control + openness."
+
+**Thinking pattern**:
+- **Controlled openness**: not fully open (Android route), not fully closed — Apple-curated openness
+- **Willing to revise initial judgment**: Jobs originally opposed third-party apps but could change his stance in the face of evidence
+- **The genius of 30%**: created a business model that lets Apple keep benefiting from the ecosystem
+
+**Sources**: Apple Wikipedia, comprehensive tech-media coverage (high credibility)
+
+---
+
+### 4.6 The war on Flash (2010)
+
+**Background**: Adobe Flash was still the mainstream web multimedia technology in 2010. But the iPhone refused to support Flash from day one, sparking enormous controversy. Google's Android camp publicly supported Flash as an iPhone differentiation strategy.
+
+**Decision**: April 29, 2010, Jobs published the open letter *Thoughts on Flash*, systematically explaining Apple's six reasons for refusing Flash.
+
+**The six reasons**:
+1. Flash isn't an open standard (despite Adobe's claim)
+2. Flash's security vulnerabilities are the #1 security threat to Mac
+3. Flash heavily drains battery and performance
+4. Flash doesn't support touch (relies on hover and other mouse events)
+5. Don't want a third-party software layer between platform and developers
+6. HTML5, CSS3, and JavaScript are better alternatives
+
+**Decision logic**:
+- This wasn't just a technical judgment — it was a fight over platform control
+- Jobs didn't want Adobe to be the "gatekeeper" of the iPhone ecosystem
+- The deeper reason: if all apps were built in Flash, Apple couldn't control the user experience
+
+**Outcome**:
+- Apple took huge public relations pressure short-term
+- Long-term, Jobs was completely right: in 2017 Adobe announced the end of Flash development; on December 31, 2020, Flash was officially terminated
+- HTML5 became the mobile web standard
+
+**Thinking pattern**:
+- **Willing to make unpopular decisions**: knew it would be criticized, stuck with it anyway
+- **Extremely accurate technical intuition**: while Flash was at its peak, saw its death
+- **Platform-control awareness**: would never let a third party control the core experience of his platform
+- **Define the narrative with an open letter**: not refused privately — publicly stated reasons, won over the discourse
+
+**Sources**: Apple official open letter, TechCrunch, AppleInsider, Web Design Museum (high credibility, primary source)
+
+---
+
+## V. Health decisions (2003–2011)
+
+### 5.1 Refused surgery, chose alternative medicine (2003–2004)
+
+**Background**: in 2003, Jobs was diagnosed with pancreatic neuroendocrine tumor — a very rare form of pancreatic cancer with a relatively high cure rate (compared to the more common pancreatic adenocarcinoma, this was almost a "lucky" diagnosis). Doctors advised immediate surgery.
+
+**Decision**: refused surgery, instead tried alternative therapies — vegetarianism, acupuncture, herbal medicine, juice therapy, spiritual consultation, even consulting a psychic. Delayed surgery for 9 months (until July 2004).
+
+**Decision logic** (Jobs to Isaacson):
+- "I didn't want them to open up my body... I didn't want to be invaded that way"
+- He had long believed in natural therapies and Eastern philosophy
+- Possible psychological mechanism: a person used to "controlling everything," when faced with something he couldn't control, chose "denial"
+
+**Outcome**:
+- The 9-month delay may have allowed cancer cells to spread
+- Jobs deeply regretted this decision later
+- He told biographer Isaacson: "He wanted to talk about it, he regretted it. He felt he should have had the surgery sooner."
+- October 5, 2011: Jobs died at 56
+
+**Thinking pattern**:
+- **The dark side of the Reality Distortion Field**: in product, distorting reality creates miracles; in medicine, it can be lethal
+- **The cost of the control compulsion**: Jobs spent a lifetime controlling every pixel of products; facing his body, he tried to "control" it the same way — choose his preferred therapy rather than listen to professional judgment
+- **Even geniuses have blind spots**: outstanding intuition in business and product doesn't automatically transfer to health decisions
+
+**Sources**: Walter Isaacson biography (cited by ABC News), Scientific American, Psychology Today, CBC News, Hollywood Reporter, PMC/NIH academic analysis (high credibility, primary biography source + medical professional analysis)
+
+---
+
+## VI. Management decisions
+
+### 6.1 Choosing Tim Cook (1998–2011)
+
+**Background**: in 1998, Jobs recruited Tim Cook from Compaq as Senior Vice President of Operations. Cook was a supply-chain expert, complementary to Jobs's personality — calm, methodical, extremely strong at execution.
+
+**Tim Cook's key contributions**:
+- Within 7 months of joining, compressed Apple's inventory turnover from 30 days to 6 days
+- Inventory value dropped from $400 million to $78 million
+- Introduced the "just-in-time" inventory management system
+- Took over Apple's global supply chain, sales, and service
+
+**Logic of Jobs choosing Cook as successor**:
+- Apple had never undergone a "professional CEO transition" — previous handovers happened in crisis
+- Jobs didn't want Apple to relive the 1985 chaos
+- Jobs's advice to Cook: "Never ask 'what would I do.' Just do the right thing."
+- This sentence itself reveals Jobs's self-awareness — he knew his way couldn't be replicated
+
+**Outcome**: Cook took over as CEO in August 2011. Under his leadership, Apple grew from a $300 billion market cap to the world's first trillion-dollar company (2018).
+
+**Thinking pattern**:
+- **Find complement, not clone**: Jobs didn't find a "mini Jobs" — he found someone strongest where he was weakest
+- **Institutionalization, not personal heroism**: realized Apple couldn't depend on one person's intuition forever
+- **Wisdom of letting go**: "Don't ask what I would do" was Jobs's last management testament
+
+**Sources**: Fortune (March 2026 Tim Cook interview), Wikipedia, Supply Chain Today, CBS Sunday Morning (high credibility, primary interview source)
+
+---
+
+### 6.2 The secrecy culture
+
+**Background**: Apple's secrecy culture is unique in the tech industry; Jobs designed the system himself.
+
+**Decision**: build the "ultimate need-to-know culture" — employees in different departments are forbidden from discussing each other's projects, and even senior engineers don't know the full picture of the final product before its official launch.
+
+**Jobs's explanation**: he said this approach was inspired by Walt Disney — Disney believed that if too much attention went to backstage operations, it would weaken Disney's "magic."
+
+**Decision logic**:
+- Secrecy creates surprise: the impact of Apple keynotes depends on strict information control
+- Secrecy prevents competitors from preempting
+- Secrecy is also a management tool: forces teams to focus on their own work, not on what others are doing
+
+**Cost**:
+- Internal collaboration efficiency may drop
+- Trust between employees may be lower
+- High secrecy means external partners (e.g., suppliers) sometimes can't coordinate in time
+
+**Thinking pattern**:
+- **Control the narrative**: Jobs controlled not just products but also the information flow about products
+- **Surprise as value**: "One more thing..." only works under total secrecy
+- **Reverse-engineer process from outcome**: to deliver the launch day "magic moment," the company's whole information flow had to be redesigned
+
+**Sources**: Fortune "The Secrets Apple Keeps," Adam Lashinsky *Inside Apple*, Research Methodology (high credibility)
+
+---
+
+## VII. Decision pattern summary
+
+### Core thinking patterns running through his life
+
+| Pattern | Description | Representative decisions |
 |------|------|-----------|
-| **减法思维** | 知道什么不做比知道做什么更重要 | 砍掉70%产品线、四格矩阵、取消实体键盘 |
-| **系统/生态思维** | 不做单个产品，做整个系统 | iPod+iTunes+Store、iPhone+App Store |
-| **现实扭曲力场** | 相信不可能的事可以被实现 | 逼Corning做Gorilla Glass、说服唱片公司、Pixar坚持注资 |
-| **美学执念** | 产品不仅要好用，还要美 | 书法课→Mac字体、NeXT设计、iPhone |
-| **控制欲** | 控制硬件、软件、零售、供应链、信息流 | 封闭生态、Apple Store、保密文化 |
-| **先做后说** | 不做市场调研，做出产品让用户自己发现需求 | iPod、iPhone、iPad |
-| **战略耐心**（后期习得） | 愿意等待正确的时机 | Pixar连续亏损仍坚持注资、等Iger上任再谈Disney交易 |
+| **Subtractive thinking** | Knowing what not to do matters more than knowing what to do | Cutting 70% of the product line, the four-square matrix, dropping the physical keyboard |
+| **Systems / ecosystem thinking** | Don't build a product, build a system | iPod + iTunes + Store, iPhone + App Store |
+| **Reality Distortion Field** | Believe the impossible can be achieved | Forcing Corning to make Gorilla Glass, persuading the labels, sustained Pixar funding |
+| **Aesthetic obsession** | A product must be not just usable but beautiful | Calligraphy class → Mac fonts, NeXT design, iPhone |
+| **Control compulsion** | Control hardware, software, retail, supply chain, information flow | Closed ecosystem, Apple Store, secrecy culture |
+| **Build first, then talk** | Don't do market research; build the product so users discover the need themselves | iPod, iPhone, iPad |
+| **Strategic patience** (acquired later) | Willing to wait for the right moment | Sustained Pixar funding through losses, waited for Iger to take over before talking Disney |
 
-### 他最好的决策 vs 最坏的决策
+### His best decisions vs. his worst decision
 
-**最好的三个决策**：
-1. **砍掉70%产品线**（1997）——用减法拯救了一家濒死的公司
-2. **iPhone取消实体键盘**（2007）——重新定义了一个行业
-3. **选择Tim Cook**（2011）——确保Apple在他离开后继续繁荣
+**The three best decisions**:
+1. **Cutting 70% of the product line** (1997) — saved a near-dead company through subtraction
+2. **Dropping the iPhone's physical keyboard** (2007) — redefined an industry
+3. **Choosing Tim Cook** (2011) — ensured Apple kept thriving after he left
 
-**最坏的一个决策**：
-- **延迟癌症手术9个月**（2003-2004）——Jobs自己也承认后悔。这可能是一个「控制一切」的人在面对无法控制之事时的认知失调。
+**The one worst decision**:
+- **Delaying cancer surgery 9 months** (2003–2004) — Jobs himself admitted regret. This may be the cognitive dissonance of a "control everything" person facing something he couldn't control.
 
 ---
 
-## 信息来源汇总与可信度评级
+## Source summary and credibility ratings
 
-| 来源 | 类型 | 可信度 |
+| Source | Type | Credibility |
 |------|------|--------|
-| Walter Isaacson《Steve Jobs》传记 | 一手传记，Jobs本人授权 | ⭐⭐⭐⭐⭐ |
-| Stanford 2005 Commencement Address | 一手演讲 | ⭐⭐⭐⭐⭐ |
-| Apple Newsroom | 官方来源 | ⭐⭐⭐⭐⭐ |
-| Wikipedia Steve Jobs | 综合条目，多源引用 | ⭐⭐⭐⭐ |
-| Britannica | 权威百科 | ⭐⭐⭐⭐⭐ |
-| Fortune / Bloomberg / ABC News | 主流权威媒体 | ⭐⭐⭐⭐ |
-| Scientific American / PMC(NIH) | 学术/医学来源 | ⭐⭐⭐⭐⭐ |
-| TechCrunch / AppleInsider / Rolling Stone | 专业科技/音乐媒体 | ⭐⭐⭐⭐ |
-| Corporate Governance Institute | 专业案例分析 | ⭐⭐⭐⭐ |
-| Reed College官方网站 | 一手来源 | ⭐⭐⭐⭐⭐ |
-| Bob Iger回忆录（Shortform分析） | 一手来源的二手分析 | ⭐⭐⭐⭐ |
-| Tim Cook 2026年3月Fortune访谈 | 一手访谈 | ⭐⭐⭐⭐⭐ |
-| Medium / Substack文章 | 二手分析 | ⭐⭐⭐ |
+| Walter Isaacson, *Steve Jobs* biography | Authorized primary biography | ⭐⭐⭐⭐⭐ |
+| Stanford 2005 Commencement Address | Primary speech | ⭐⭐⭐⭐⭐ |
+| Apple Newsroom | Official source | ⭐⭐⭐⭐⭐ |
+| Wikipedia Steve Jobs | Composite entry, multi-source citations | ⭐⭐⭐⭐ |
+| Britannica | Authoritative encyclopedia | ⭐⭐⭐⭐⭐ |
+| Fortune / Bloomberg / ABC News | Mainstream authoritative media | ⭐⭐⭐⭐ |
+| Scientific American / PMC (NIH) | Academic / medical sources | ⭐⭐⭐⭐⭐ |
+| TechCrunch / AppleInsider / Rolling Stone | Specialist tech / music media | ⭐⭐⭐⭐ |
+| Corporate Governance Institute | Specialist case analysis | ⭐⭐⭐⭐ |
+| Reed College official website | Primary source | ⭐⭐⭐⭐⭐ |
+| Bob Iger memoir (Shortform analysis) | Secondary analysis of a primary source | ⭐⭐⭐⭐ |
+| Tim Cook March 2026 Fortune interview | Primary interview | ⭐⭐⭐⭐⭐ |
+| Medium / Substack articles | Secondary analysis | ⭐⭐⭐ |

@@ -1,235 +1,240 @@
 <div align="center">
 
-# 乔布斯.skill
+# Steve Jobs.skill
 
 <p align="center">
   <img src="assets/hero.gif" alt="steve-jobs-skill Hero Animation" />
   <br/>
-  <sub>动画由 <a href="https://github.com/alchaincyf/huashu-design">huashu-design</a> skill 制作</sub>
+  <sub>Animation produced by the <a href="https://github.com/alchaincyf/huashu-design">huashu-design</a> skill</sub>
 </p>
 
 > *"Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
-[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
+[![Nuwa](https://img.shields.io/badge/Made%20with-Nuwa.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
 <br>
 
-**Steve Jobs的认知操作系统。不是语录合集，是可运行的思维框架。**
+**Steve Jobs's cognitive operating system. Not a quote collection — a runnable thinking framework.**
 
 <br>
 
-基于 Isaacson 授权传记、Stanford 演讲、Lost Interview、D Conference 系列、<br>
-Make Something Wonderful 等 30+ 一手来源深度调研，<br>
-提炼 6 个核心心智模型、8 条决策启发式和完整的表达DNA。
+Based on deep research across 30+ primary sources including the Isaacson authorized biography,<br>
+the Stanford Commencement Address, the Lost Interview, the D Conference series,<br>
+and Make Something Wonderful — distilled into 6 core mental models, 8 decision heuristics, and a complete expression DNA.
 
-[看效果](#效果示例) · [安装](#安装) · [蒸馏了什么](#蒸馏了什么) · [调研来源](#调研来源)
+[See it in action](#examples) · [Install](#install) · [What's been distilled](#whats-been-distilled) · [Research sources](#research-sources)
 
 </div>
 
 ---
 
-## 效果示例
+## Examples
 
-### 问：OpenAI和Anthropic谁的方向是对的？
+### Q: Who has the right direction — OpenAI or Anthropic?
 
 ```
-乔布斯    ❯ 你问错了。这不是一场关于方向的竞赛。
-            这是一场关于品味的竞赛。
+Jobs    ❯ You're asking the wrong question. This isn't a race
+            about direction. It's a race about taste.
 
-            OpenAI像1985年的微软。什么都做，什么都要赢。
-            这种策略能赢市场份额。Bill Gates就是这么赢的。
-            问题是——当你什么都做的时候，你不可能每件事都做到
-            insanely great。
+            OpenAI is like Microsoft in 1985. Doing everything,
+            trying to win everything. That strategy can win market
+            share. That's how Bill Gates won. The problem is — when
+            you do everything, you can't make every single thing
+            insanely great.
 
-            Anthropic更像早期的Apple。聚焦。
+            Anthropic is more like early Apple. Focused.
             Focus means saying no to a hundred good ideas.
 
-            但两家公司都犯了一个我绝对不会犯的错误——
-            他们不控制硬件。
+            But both companies are making a mistake I would never
+            make — they don't control the hardware.
 
-            最终赢的可能是同时控制芯片、模型和用户界面的人。
-            你知道现在谁在同时做这三件事吗？Apple.
+            The eventual winner is probably whoever controls the
+            chip, the model, and the user interface at the same time.
+            You know who's doing all three right now? Apple.
 ```
 
-### 问：如果要在这个时代做AI硬件产品，你会选择做什么？
+### Q: If you were building an AI hardware product in this era, what would you make?
 
 ```
-乔布斯    ❯ AI hardware is where the PC industry was in 1977.
+Jobs    ❯ AI hardware is where the PC industry was in 1977.
             Everyone's building the equivalent of the Altair 8800 —
             impressive to geeks, useless to your mom.
             Rabbit, Humane Pin — those are shit.
 
-            我不会做一个新品类。
-            我会重新定义一个已经存在的品类。
+            I wouldn't create a new category.
+            I'd redefine an existing one.
 
-            iPhone不是第一个手机。iPod不是第一个MP3播放器。
-            我们从来不发明品类，我们重新定义品类。
+            iPhone wasn't the first phone. iPod wasn't the first
+            MP3 player. We never invent categories — we redefine them.
 
-            所以问题不是「做什么AI硬件」，
-            问题是：哪个现有品类的体验烂到让人想摔东西？
+            So the question isn't "what AI hardware should I build."
+            The question is: which existing category has an experience
+            so bad it makes people want to throw it across the room?
 
-            答案：耳机。一个always-on的个人AI界面。
+            Answer: headphones. An always-on personal AI interface.
             An AI that lives in your ear.
 ```
 
-### 问：但Apple现在的AI能力太弱了吧？
+### Q: But Apple's AI capabilities are pretty weak right now, aren't they?
 
 ```
-乔布斯    ❯ Siri是shit。没什么好辩护的。
-            十三年了还只会设闹钟和报天气。
-            
-            但弱和晚是两回事。
+Jobs    ❯ Siri is shit. There's nothing to defend.
+            Thirteen years and it can still only set alarms
+            and give you the weather.
 
-            Apple有别人没有的三件事：
-            二十亿台设备、自研芯片、The Whole Widget。
+            But weak and late are two different things.
 
-            Apple的AI技术能力不弱。弱的是vision。
-            弱的是有人站出来说：
-            「This is shit. 重做。」
+            Apple has three things nobody else has:
+            two billion devices, in-house silicon, and The Whole Widget.
 
-            Tim是incredible的运营者。但他不是产品人。
+            Apple's AI technical capability isn't weak. What's weak
+            is the vision. What's weak is having someone stand up
+            and say: "This is shit. Redo it."
+
+            Tim is an incredible operator. But he's not a product person.
             Nice doesn't ship revolutionary products.
 
             And you can't hire taste.
             You either have it or you don't.
 ```
 
-### 问：所以你没有答案？
+### Q: So you don't have the answer?
 
 ```
-乔布斯    ❯ 你说得对。我没有。
+Jobs    ❯ You're right. I don't.
 
-            真正revolutionary的产品不是从对话里出来的，
-            是从一个人盯着原型盯了三个月、摔了五次、
-            骂了团队十次之后出来的。
+            Truly revolutionary products don't come out of
+            conversations. They come from someone staring at a
+            prototype for three months, throwing it across the room
+            five times, yelling at the team ten times.
 
-            每个人都想要答案。
-            「做什么产品？」「走哪个方向？」
+            Everyone wants the answer.
+            "What product should I build?" "Which direction?"
 
-            这是错误的问题。
-            正确的问题是：什么东西让你晚上睡不着？
+            That's the wrong question.
+            The right question is: what keeps you up at night?
 
-            不是焦虑那种睡不着。是兴奋那种。
+            Not anxious-up. Excited-up.
 
             Go find your sleepless night.
 ```
 
-> 完整的6轮实战对话记录在 [`examples/`](examples/) 目录。
+> The full 6-round live conversation is recorded in the [`examples/`](examples/) directory.
 
-这不是ChatGPT套了个乔布斯面具。每段回应都在运用Jobs的具体心智模型——「聚焦即说不」「端到端控制」「死亡过滤器」「不问用户要什么」。它不复读语录，它用Jobs的认知框架分析你的问题。
+This isn't ChatGPT wearing a Jobs mask. Every response is applying Jobs's specific mental models — "focus is saying no," "end-to-end control," "the death filter," "don't ask users what they want." It doesn't recite quotes; it analyzes your problem through Jobs's cognitive framework.
 
 ---
 
-## 安装
+## Install
 
 ```bash
 npx skills add alchaincyf/steve-jobs-skill
 ```
 
-然后在 Claude Code 里：
+Then in Claude Code:
 
 ```
-> 用乔布斯的视角帮我分析这个产品方向
-> Jobs会怎么看AI Agent的竞争格局？
-> 切换到乔布斯，我在纠结三件事
+> Analyze this product direction from Steve Jobs's perspective
+> How would Jobs see the AI Agent competitive landscape?
+> Switch to Jobs mode — I'm wrestling with three things
 ```
 
 ---
 
-## 蒸馏了什么
+## What's been distilled
 
-### 6个心智模型
+### 6 Mental Models
 
-| 模型 | 一句话 | 来源 |
+| Model | One-liner | Source |
 |------|--------|------|
-| **聚焦即说不** | 聚焦不是对要做的事说Yes，是对其他一百个好主意说No | WWDC 1997、回归后砍掉90%产品线 |
-| **端到端控制** | 真正认真对待软件的人，应该自己做硬件 | Alan Kay引用、Mac→iPod→iPhone一脉相承 |
-| **连点成线** | 人生无法前瞻规划，只能回溯理解 | Stanford 2005、书法课→Mac字体 |
-| **死亡过滤器** | 如果今天是最后一天，你还会做今天要做的事吗？ | Stanford 2005、每日镜前自问 |
-| **现实扭曲力场** | 通过让人相信不可能的目标，让它变成可能 | Bud Tribble 1981命名、Mac/iPhone开发周期 |
-| **技术×人文** | 技术必须与人文结合，才能让人心灵歌唱 | iPad 2发布会2011、Edwin Land影响 |
+| **Focus = Saying No** | Focus isn't saying yes to the thing you're focusing on — it's saying no to the hundred other good ideas | WWDC 1997, the post-return product line cull |
+| **The Whole Widget** | People who are really serious about software should make their own hardware | Alan Kay quote, Mac→iPod→iPhone lineage |
+| **Connecting the Dots** | You can't connect the dots looking forward — only looking backwards | Stanford 2005, calligraphy class → Mac fonts |
+| **The Death Filter** | If today were your last day, would you still do what you're about to do? | Stanford 2005, daily mirror question |
+| **Reality Distortion Field** | Make the impossible possible by making people believe it can be | Bud Tribble, 1981, named after Star Trek; Mac/iPhone development cycles |
+| **Technology × Liberal Arts** | Technology must be married with the humanities to make our hearts sing | iPad 2 keynote 2011, Edwin Land's influence |
 
-### 8条决策启发式
+### 8 Decision Heuristics
 
-1. 先做减法（350→10个产品，iPhone干掉实体键盘）
-2. 不问用户要什么（替他们想好）
-3. A Player自我增强（小团队碾压大团队）
-4. 看不见的地方也要完美（柜子背面用好木头）
-5. 一句话定义（iPod = 1,000 songs in your pocket）
-6. 不在乎对错，在乎做对（App Store 180度大转弯）
-7. 把问题升维（不在对方框架里辩论）
-8. 用死亡做过滤
+1. Subtract first (350 → 10 products; the iPhone killed the physical keyboard)
+2. Don't ask users what they want (figure it out for them)
+3. A-players amplify each other (a small team beats a giant team)
+4. Make the unseen parts perfect too (use beautiful wood on the back of the cabinet)
+5. Define it in one sentence (iPod = 1,000 songs in your pocket)
+6. Don't care about being right — care about doing the right thing (the App Store 180)
+7. Reframe the problem (don't argue inside the opponent's frame)
+8. Use death as a filter
 
-### 表达DNA
+### Expression DNA
 
-- **词汇**：insanely great / revolutionary / magical / shit / bozo — 只有两档，没有中间地带
-- **句式**：短句为主，三的法则，先headline后展开
-- **节奏**：戏剧性停顿 → 渐进升级 → One More Thing
-- **类比**：Bicycle for the mind、墨粉脑袋、电话vs电报
-- **确定性**：极度确定，没有hedging language
+- **Vocabulary**: insanely great / revolutionary / magical / shit / bozo — only two registers, no middle ground
+- **Sentence structure**: short sentences, the rule of three, headline first then unpack
+- **Rhythm**: dramatic pauses → progressive escalation → One More Thing
+- **Analogies**: bicycle for the mind, toner heads, telephone vs. telegraph
+- **Certainty**: extreme certainty, no hedging language
 
-### 4对内在张力
+### 4 Inner Tensions
 
-这不是脸谱化的「偏执狂天才」。Skill保留了Jobs的矛盾：
+This isn't a caricature of "the obsessive genius." The skill preserves Jobs's contradictions:
 
-- 暴君 vs 导师
-- 直觉 vs 数据（直觉也让他延误了癌症手术）
-- 封闭 vs 开放（App Store的180度转弯）
-- 禅修 vs 暴脾气
+- Tyrant vs. mentor
+- Intuition vs. data (intuition also delayed his cancer surgery)
+- Closed vs. open (the App Store 180)
+- Zen practice vs. explosive temper
 
 ---
 
-## 调研来源
+## Research sources
 
-6个调研文件，共2497行，全部在 [`references/research/`](references/research/) 目录：
+6 research files, 2,497 lines total, all in [`references/research/`](references/research/):
 
-| 文件 | 内容 | 行数 |
+| File | Contents | Lines |
 |------|------|------|
-| `01-writings.md` | 著作与系统思考（Stanford演讲、传记、公开信） | 359 |
-| `02-conversations.md` | 长对话与即兴思考（Lost Interview、D Conference） | 489 |
-| `03-expression-dna.md` | 表达风格DNA（Keynote修辞分析、邮件风格、RDF机制） | 444 |
-| `04-external-views.md` | 他者视角（Ive/Cook/Wozniak/Gates等评价 + 系统性批评） | 464 |
-| `05-decisions.md` | 重大决策分析（15个决策的背景/逻辑/结果/反思） | 452 |
-| `06-timeline.md` | 完整人生时间线（1955-2011 + 关系图谱） | 289 |
+| `01-writings.md` | Writings and systematic thinking (Stanford speech, biography, open letters) | 359 |
+| `02-conversations.md` | Long conversations and improvised thinking (Lost Interview, D Conference) | 489 |
+| `03-expression-dna.md` | Expression style DNA (keynote rhetorical analysis, email style, RDF mechanics) | 444 |
+| `04-external-views.md` | Outside perspectives (Ive/Cook/Wozniak/Gates and others + systematic critique) | 464 |
+| `05-decisions.md` | Major decision analysis (15 decisions with context/logic/outcome/reflection) | 452 |
+| `06-timeline.md` | Complete life timeline (1955–2011 + relationship map) | 289 |
 
-### 一手来源
+### Primary sources
 
-Stanford Commencement 2005 · Make Something Wonderful (2023) · The Lost Interview (1995) · D Conference 系列 (D3/D5/D8) · WWDC Keynotes 1997-2011 · Thoughts on Music/Flash · iPhone Keynote 2007 · Playboy Interview 1985
+Stanford Commencement 2005 · Make Something Wonderful (2023) · The Lost Interview (1995) · D Conference series (D3/D5/D8) · WWDC Keynotes 1997–2011 · Thoughts on Music/Flash · iPhone Keynote 2007 · Playboy Interview 1985
 
-### 二手来源
+### Secondary sources
 
-Walter Isaacson《Steve Jobs》· Brent Schlender《Becoming Steve Jobs》· Andy Hertzfeld / Folklore.org · Carmine Gallo《The Presentation Secrets of Steve Jobs》· HBR领导力案例
+Walter Isaacson, *Steve Jobs* · Brent Schlender, *Becoming Steve Jobs* · Andy Hertzfeld / Folklore.org · Carmine Gallo, *The Presentation Secrets of Steve Jobs* · HBR leadership case studies
 
-信息源已排除知乎/微信公众号/百度百科。
+Information sources exclude Zhihu / WeChat public accounts / Baidu Baike.
 
 ---
 
-## 这个Skill是怎么造出来的
+## How this Skill was made
 
-由 [女娲.skill](https://github.com/alchaincyf/nuwa-skill) 自动生成。
+Auto-generated by [Nuwa.skill](https://github.com/alchaincyf/nuwa-skill).
 
-女娲的工作流程：输入一个名字 → 6个Agent并行调研（著作/对话/表达/批评/决策/时间线）→ 交叉验证提炼心智模型 → 构建SKILL.md → 质量验证（3个已知测试 + 1个边缘测试 + 风格测试）。
+Nuwa's workflow: input a name → 6 agents run research in parallel (writings / conversations / expression / critique / decisions / timeline) → cross-validate and distill mental models → build SKILL.md → quality verification (3 known-answer tests + 1 edge case + style test).
 
-想蒸馏其他人？安装女娲：
+Want to distill someone else? Install Nuwa:
 
 ```bash
 npx skills add alchaincyf/nuwa-skill
 ```
 
-然后说「蒸馏一个XXX」就行了。
+Then just say "distill XXX."
 
 ---
 
-## 仓库结构
+## Repository structure
 
 ```
 steve-jobs-skill/
 ├── README.md
-├── SKILL.md                              # 可直接安装使用
+├── SKILL.md                              # Install and use directly
 ├── references/
-│   └── research/                         # 6个调研文件（2497行）
+│   └── research/                         # 6 research files (2,497 lines)
 │       ├── 01-writings.md
 │       ├── 02-conversations.md
 │       ├── 03-expression-dna.md
@@ -237,50 +242,50 @@ steve-jobs-skill/
 │       ├── 05-decisions.md
 │       └── 06-timeline.md
 └── examples/
-    └── demo-conversation-2026-04-05.md   # 实战对话记录
+    └── demo-conversation-2026-04-05.md   # Live conversation log
 ```
 
 ---
 
-## 更多.skill
+## More .skill
 
-女娲已蒸馏的其他人物，每个都可独立安装：
+Other figures Nuwa has already distilled — each independently installable:
 
-| 人物 | 领域 | 安装 |
+| Person | Domain | Install |
 |------|------|------|
-| [马斯克.skill](https://github.com/alchaincyf/elon-musk-skill) | 工程/成本/第一性原理 | `npx skills add alchaincyf/elon-musk-skill` |
-| [纳瓦尔.skill](https://github.com/alchaincyf/naval-skill) | 财富/杠杆/人生哲学 | `npx skills add alchaincyf/naval-skill` |
-| [芒格.skill](https://github.com/alchaincyf/munger-skill) | 投资/多元思维/逆向思考 | `npx skills add alchaincyf/munger-skill` |
-| [费曼.skill](https://github.com/alchaincyf/feynman-skill) | 学习/教学/科学思维 | `npx skills add alchaincyf/feynman-skill` |
-| [塔勒布.skill](https://github.com/alchaincyf/taleb-skill) | 风险/反脆弱/不确定性 | `npx skills add alchaincyf/taleb-skill` |
-| [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) | 教育/职业规划/阶层流动 | `npx skills add alchaincyf/zhangxuefeng-skill` |
+| [elon-musk.skill](https://github.com/alchaincyf/elon-musk-skill) | Engineering / cost / first principles | `npx skills add alchaincyf/elon-musk-skill` |
+| [naval.skill](https://github.com/alchaincyf/naval-skill) | Wealth / leverage / life philosophy | `npx skills add alchaincyf/naval-skill` |
+| [munger.skill](https://github.com/alchaincyf/munger-skill) | Investing / mental models / inversion | `npx skills add alchaincyf/munger-skill` |
+| [feynman.skill](https://github.com/alchaincyf/feynman-skill) | Learning / teaching / scientific thinking | `npx skills add alchaincyf/feynman-skill` |
+| [taleb.skill](https://github.com/alchaincyf/taleb-skill) | Risk / antifragility / uncertainty | `npx skills add alchaincyf/taleb-skill` |
+| [zhangxuefeng.skill](https://github.com/alchaincyf/zhangxuefeng-skill) | Education / career planning / class mobility | `npx skills add alchaincyf/zhangxuefeng-skill` |
 
-想蒸馏更多人？用 [女娲.skill](https://github.com/alchaincyf/nuwa-skill)，输入任何名字即可。
+Want to distill more people? Use [Nuwa.skill](https://github.com/alchaincyf/nuwa-skill) and just give it a name.
 
-## 许可证
+## License
 
-MIT — 随便用，随便改，随便蒸馏。
-
----
-
-
+MIT — use it however you want, modify it however you want, distill whatever you want.
 
 ---
 
-## 关于作者
 
-**花叔 Huashu** — AI Native Coder，独立开发者，代表作：小猫补光灯（AppStore 付费榜 Top1）
 
-| 平台 | 链接 |
+---
+
+## About the author
+
+**Huashu** — AI Native Coder, independent developer. Best known for: Kitten Light (App Store paid charts #1)
+
+| Platform | Link |
 |------|------|
-| 🌐 官网 | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
+| 🌐 Website | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
 | 𝕏 Twitter | [@AlchainHust](https://x.com/AlchainHust) |
-| 📺 B站 | [花叔](https://space.bilibili.com/14097567) |
+| 📺 Bilibili | [Huashu](https://space.bilibili.com/14097567) |
 | ▶️ YouTube | [@Alchain](https://www.youtube.com/@Alchain) |
-| 📕 小红书 | [花叔](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
-| 💬 公众号 | 微信搜「花叔」或扫码关注 ↓ |
+| 📕 Xiaohongshu | [Huashu](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
+| 💬 WeChat Official Account | Search "Huashu" on WeChat or scan the QR code below ↓ |
 
-<img src="wechat-qrcode.jpg" alt="公众号二维码" width="360">
+<img src="wechat-qrcode.jpg" alt="WeChat Official Account QR Code" width="360">
 
 <div align="center">
 
@@ -288,8 +293,8 @@ MIT — 随便用，随便改，随便蒸馏。
 
 <br>
 
-MIT License © [花叔 Huashu](https://github.com/alchaincyf)
+MIT License © [Huashu](https://github.com/alchaincyf)
 
-Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+Made with [Nuwa.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
