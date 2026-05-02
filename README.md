@@ -130,7 +130,7 @@ This isn't ChatGPT wearing a Jobs mask. Every response is applying Jobs's specif
 ## Install
 
 ```bash
-npx skills add alchaincyf/steve-jobs-skill
+npx skills add vikranthreddimasu/steve-jobs-skill
 ```
 
 Then in Claude Code:
