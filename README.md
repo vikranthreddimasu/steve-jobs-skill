@@ -33,13 +33,7 @@ and Make Something Wonderful — distilled into 6 core mental models, 8 decision
 npx skills add vikranthreddimasu/steve-jobs-skill
 ```
 
-Then in Claude Code:
-
-```
-> Analyze this product direction from Steve Jobs's perspective
-> How would Jobs see the AI Agent competitive landscape?
-> Switch to Jobs mode — I'm wrestling with three things
-```
+Then bring it a real product or strategy question — the kind you'd take to a partner you trust. The skill auto-engages; no special invocation needed. See [Examples](#examples) below for what that looks like.
 
 ---
 
