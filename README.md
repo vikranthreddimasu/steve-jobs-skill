@@ -25,6 +25,8 @@ and Make Something Wonderful. Distilled into 6 core mental models, 8 decision he
 
 > **Fork notice.** This is an English translation of [`alchaincyf/steve-jobs-skill`](https://github.com/alchaincyf/steve-jobs-skill) by [Huashu (花叔)](https://github.com/alchaincyf). All credit for the design (mental models, decision heuristics, expression DNA, research base) belongs to the original author. This fork translates the README, `SKILL.md`, and the six research files from Chinese to English; nothing about the underlying framework was changed. The [LICENSE](LICENSE) preserves the original copyright. See [Credits](#credits) below.
 
+> **Sibling project.** I also maintain [`vikranthreddimasu/steve-jobs-stack`](https://github.com/vikranthreddimasu/steve-jobs-stack), three skills (`make`, `refine`, `pitch`) that apply Jobs's product principles to *your own* work (PRDs, design reviews, launch copy) without imitating his voice. **This skill is the conversational version:** ask Jobs a question, get a Jobs-shaped answer. **The stack is the discipline version:** the principles disappear into the artifacts you ship. Pick whichever fits the moment, or use both.
+
 ---
 
 ## Install
@@ -245,6 +247,6 @@ MIT. Use it however you want, modify it however you want, distill whatever you w
 
 <br>
 
-MIT License © [Huashu](https://github.com/alchaincyf) · Translated by [Vikranth Reddimasu](https://github.com/vikranthreddimasu)
+MIT License © [Huashu](https://github.com/alchaincyf) · Translated by [Vikranth Reddimasu](https://vikranthreddimasu.xyz)
 
 </div>
