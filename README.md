@@ -9,13 +9,13 @@
 
 <br>
 
-**Steve Jobs's cognitive operating system. Not a quote collection — a runnable thinking framework.**
+**Steve Jobs's cognitive operating system. Not a quote collection. A runnable thinking framework.**
 
 <br>
 
-Based on deep research across 30+ primary sources including the Isaacson authorized biography,<br>
+Built on research across 30+ primary sources including the Isaacson authorized biography,<br>
 the Stanford Commencement Address, the Lost Interview, the D Conference series,<br>
-and Make Something Wonderful — distilled into 6 core mental models, 8 decision heuristics, and a complete expression DNA.
+and Make Something Wonderful. Distilled into 6 core mental models, 8 decision heuristics, and a complete expression DNA.
 
 [Install](#install) · [See it in action](#examples) · [What's been distilled](#whats-been-distilled) · [Research sources](#research-sources)
 
@@ -23,7 +23,7 @@ and Make Something Wonderful — distilled into 6 core mental models, 8 decision
 
 ---
 
-> **Fork notice.** This is an English translation of [`alchaincyf/steve-jobs-skill`](https://github.com/alchaincyf/steve-jobs-skill) by [Huashu (花叔)](https://github.com/alchaincyf). All credit for the design — mental models, decision heuristics, expression DNA, research base — belongs to the original author. This fork translates the README, `SKILL.md`, and the six research files from Chinese to English; nothing about the underlying framework was changed. The [LICENSE](LICENSE) preserves the original copyright. See [Credits](#credits) below.
+> **Fork notice.** This is an English translation of [`alchaincyf/steve-jobs-skill`](https://github.com/alchaincyf/steve-jobs-skill) by [Huashu (花叔)](https://github.com/alchaincyf). All credit for the design (mental models, decision heuristics, expression DNA, research base) belongs to the original author. This fork translates the README, `SKILL.md`, and the six research files from Chinese to English; nothing about the underlying framework was changed. The [LICENSE](LICENSE) preserves the original copyright. See [Credits](#credits) below.
 
 ---
 
@@ -33,13 +33,13 @@ and Make Something Wonderful — distilled into 6 core mental models, 8 decision
 npx skills add vikranthreddimasu/steve-jobs-skill
 ```
 
-Then bring it a real product or strategy question — the kind you'd take to a partner you trust. The skill auto-engages; no special invocation needed. See [Examples](#examples) below for what that looks like.
+Then bring it a real product or strategy question. The skill auto-engages; no invocation needed. See [Examples](#examples) below.
 
 ---
 
 ## Examples
 
-### Q: Who has the right direction — OpenAI or Anthropic?
+### Q: Who has the right direction, OpenAI or Anthropic?
 
 ```
 Jobs    ❯ You're asking the wrong question. This isn't a race
@@ -47,7 +47,7 @@ Jobs    ❯ You're asking the wrong question. This isn't a race
 
             OpenAI is like Microsoft in 1985. Doing everything,
             trying to win everything. That strategy can win market
-            share. That's how Bill Gates won. The problem is — when
+            share. That's how Bill Gates won. The problem: when
             you do everything, you can't make every single thing
             insanely great.
 
@@ -55,7 +55,7 @@ Jobs    ❯ You're asking the wrong question. This isn't a race
             Focus means saying no to a hundred good ideas.
 
             But both companies are making a mistake I would never
-            make — they don't control the hardware.
+            make. They don't control the hardware.
 
             The eventual winner is probably whoever controls the
             chip, the model, and the user interface at the same time.
@@ -66,15 +66,15 @@ Jobs    ❯ You're asking the wrong question. This isn't a race
 
 ```
 Jobs    ❯ AI hardware is where the PC industry was in 1977.
-            Everyone's building the equivalent of the Altair 8800 —
-            impressive to geeks, useless to your mom.
-            Rabbit, Humane Pin — those are shit.
+            Everyone's building the equivalent of the Altair 8800.
+            Impressive to geeks, useless to your mom.
+            Rabbit, Humane Pin. Those are shit.
 
             I wouldn't create a new category.
             I'd redefine an existing one.
 
             iPhone wasn't the first phone. iPod wasn't the first
-            MP3 player. We never invent categories — we redefine them.
+            MP3 player. We never invent categories. We redefine them.
 
             So the question isn't "what AI hardware should I build."
             The question is: which existing category has an experience
@@ -130,7 +130,7 @@ Jobs    ❯ You're right. I don't.
 
 > The full 6-round live conversation is recorded in the [`examples/`](examples/) directory.
 
-This isn't ChatGPT wearing a Jobs mask. Every response is applying Jobs's specific mental models — "focus is saying no," "end-to-end control," "the death filter," "don't ask users what they want." It doesn't recite quotes; it analyzes your problem through Jobs's cognitive framework.
+This isn't ChatGPT wearing a Jobs mask. Every response applies Jobs's specific mental models: "focus is saying no," "end-to-end control," "the death filter," "don't ask users what they want." It doesn't recite quotes; it analyzes your problem through Jobs's cognitive framework.
 
 ---
 
@@ -140,9 +140,9 @@ This isn't ChatGPT wearing a Jobs mask. Every response is applying Jobs's specif
 
 | Model | One-liner | Source |
 |------|--------|------|
-| **Focus = Saying No** | Focus isn't saying yes to the thing you're focusing on — it's saying no to the hundred other good ideas | WWDC 1997, the post-return product line cull |
+| **Focus = Saying No** | Focus isn't saying yes to the thing you're focusing on. It's saying no to the hundred other good ideas | WWDC 1997, the post-return product line cull |
 | **The Whole Widget** | People who are really serious about software should make their own hardware | Alan Kay quote, Mac→iPod→iPhone lineage |
-| **Connecting the Dots** | You can't connect the dots looking forward — only looking backwards | Stanford 2005, calligraphy class → Mac fonts |
+| **Connecting the Dots** | You can't connect the dots looking forward, only looking backwards | Stanford 2005, calligraphy class → Mac fonts |
 | **The Death Filter** | If today were your last day, would you still do what you're about to do? | Stanford 2005, daily mirror question |
 | **Reality Distortion Field** | Make the impossible possible by making people believe it can be | Bud Tribble, 1981, named after Star Trek; Mac/iPhone development cycles |
 | **Technology × Liberal Arts** | Technology must be married with the humanities to make our hearts sing | iPad 2 keynote 2011, Edwin Land's influence |
@@ -154,13 +154,13 @@ This isn't ChatGPT wearing a Jobs mask. Every response is applying Jobs's specif
 3. A-players amplify each other (a small team beats a giant team)
 4. Make the unseen parts perfect too (use beautiful wood on the back of the cabinet)
 5. Define it in one sentence (iPod = 1,000 songs in your pocket)
-6. Don't care about being right — care about doing the right thing (the App Store 180)
+6. Don't care about being right; care about doing the right thing (the App Store 180)
 7. Reframe the problem (don't argue inside the opponent's frame)
 8. Use death as a filter
 
 ### Expression DNA
 
-- **Vocabulary**: insanely great / revolutionary / magical / shit / bozo — only two registers, no middle ground
+- **Vocabulary**: insanely great / revolutionary / magical / shit / bozo (only two registers, no middle ground)
 - **Sentence structure**: short sentences, the rule of three, headline first then unpack
 - **Rhythm**: dramatic pauses → progressive escalation → One More Thing
 - **Analogies**: bicycle for the mind, toner heads, telephone vs. telegraph
@@ -208,7 +208,7 @@ Information sources exclude Zhihu / WeChat public accounts / Baidu Baike.
 steve-jobs-skill/
 ├── README.md
 ├── LICENSE
-├── SKILL.md                              # The skill itself — installed and used directly
+├── SKILL.md                              # the skill itself, auto-loaded by harness
 ├── examples/
 │   └── demo-conversation-2026-04-05.md   # Live conversation log
 └── references/
@@ -225,9 +225,9 @@ steve-jobs-skill/
 
 ## Credits
 
-**Original work** by [Huashu (花叔)](https://github.com/alchaincyf) — [`alchaincyf/steve-jobs-skill`](https://github.com/alchaincyf/steve-jobs-skill). Auto-generated using [Nuwa.skill](https://github.com/alchaincyf/nuwa-skill). The mental models, decision heuristics, expression DNA, research methodology, and the entire framework are theirs.
+**Original work** by [Huashu (花叔)](https://github.com/alchaincyf) at [`alchaincyf/steve-jobs-skill`](https://github.com/alchaincyf/steve-jobs-skill). Auto-generated using [Nuwa.skill](https://github.com/alchaincyf/nuwa-skill). The mental models, decision heuristics, expression DNA, research methodology, and the entire framework are theirs.
 
-**This fork** by [Vikranth Reddimasu](https://github.com/vikranthreddimasu) — translated the README, `SKILL.md`, and the six research files in `references/research/` from Chinese to English. No changes to the framework, models, heuristics, or research base.
+**This fork** by [Vikranth Reddimasu](https://github.com/vikranthreddimasu). Translated the README, `SKILL.md`, and the six research files in `references/research/` from Chinese to English. No changes to the framework, models, heuristics, or research base.
 
 If you find this fork useful, please star and follow the [original project](https://github.com/alchaincyf/steve-jobs-skill).
 
@@ -235,7 +235,7 @@ If you find this fork useful, please star and follow the [original project](http
 
 ## License
 
-MIT — use it however you want, modify it however you want, distill whatever you want. The [LICENSE](LICENSE) preserves Huashu's original copyright (`Copyright (c) 2026 Huashu (花叔)`).
+MIT. Use it however you want, modify it however you want, distill whatever you want. The [LICENSE](LICENSE) preserves Huashu's original copyright (`Copyright (c) 2026 Huashu (花叔)`).
 
 ---
 
