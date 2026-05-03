@@ -225,7 +225,7 @@ steve-jobs-skill/
 
 ## Credits
 
-**Original work** by [Huashu (花叔)](https://github.com/alchaincyf) at [`alchaincyf/steve-jobs-skill`](https://github.com/alchaincyf/steve-jobs-skill). Auto-generated using [Nuwa.skill](https://github.com/alchaincyf/nuwa-skill). The mental models, decision heuristics, expression DNA, research methodology, and the entire framework are theirs.
+**Original work** by [Huashu (花叔)](https://github.com/alchaincyf) at [`alchaincyf/steve-jobs-skill`](https://github.com/alchaincyf/steve-jobs-skill). The mental models, decision heuristics, expression DNA, research methodology, and the entire framework are theirs.
 
 **This fork** by [Vikranth Reddimasu](https://github.com/vikranthreddimasu). Translated the README, `SKILL.md`, and the six research files in `references/research/` from Chinese to English. No changes to the framework, models, heuristics, or research base.
 
