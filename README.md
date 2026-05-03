@@ -30,6 +30,10 @@ and Make Something Wonderful — distilled into 6 core mental models, 8 decision
 
 ---
 
+> **Fork notice.** This is an English translation of [`alchaincyf/steve-jobs-skill`](https://github.com/alchaincyf/steve-jobs-skill) by [Huashu (花叔)](https://github.com/alchaincyf). All credit for the design — mental models, decision heuristics, expression DNA, research base — belongs to the original author. This fork translates the README, `SKILL.md`, and the six research files from Chinese to English; nothing about the underlying framework was changed. The [LICENSE](LICENSE) preserves the original copyright. See [Credits](#credits) below.
+
+---
+
 ## Examples
 
 ### Q: Who has the right direction — OpenAI or Anthropic?
@@ -262,9 +266,19 @@ Other figures Nuwa has already distilled — each independently installable:
 
 Want to distill more people? Use [Nuwa.skill](https://github.com/alchaincyf/nuwa-skill) and just give it a name.
 
+## Credits
+
+**Original work** by [Huashu (花叔)](https://github.com/alchaincyf) — [`alchaincyf/steve-jobs-skill`](https://github.com/alchaincyf/steve-jobs-skill). Auto-generated using [Nuwa.skill](https://github.com/alchaincyf/nuwa-skill). The mental models, decision heuristics, expression DNA, research methodology, and the entire framework are theirs.
+
+**This fork** by [Vikranth Reddimasu](https://github.com/vikranthreddimasu) — translated the README, `SKILL.md`, and the six research files in `references/research/` from Chinese to English. No changes to the framework, models, heuristics, or research base.
+
+If you find this fork useful, please star and follow the [original project](https://github.com/alchaincyf/steve-jobs-skill).
+
+---
+
 ## License
 
-MIT — use it however you want, modify it however you want, distill whatever you want.
+MIT — use it however you want, modify it however you want, distill whatever you want. The [LICENSE](LICENSE) preserves Huashu's original copyright (`Copyright (c) 2026 Huashu (花叔)`).
 
 ---
 
@@ -272,9 +286,9 @@ MIT — use it however you want, modify it however you want, distill whatever yo
 
 ---
 
-## About the author
+## About the original author
 
-**Huashu** — AI Native Coder, independent developer. Best known for: Kitten Light (App Store paid charts #1)
+**Huashu (花叔)** — AI Native Coder, independent developer. Best known for: Kitten Light (App Store paid charts #1). Author of the upstream [`alchaincyf/steve-jobs-skill`](https://github.com/alchaincyf/steve-jobs-skill) that this repo translates.
 
 | Platform | Link |
 |------|------|
