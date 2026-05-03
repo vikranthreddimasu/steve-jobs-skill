@@ -2,12 +2,6 @@
 
 # Steve Jobs.skill
 
-<p align="center">
-  <img src="assets/hero.gif" alt="steve-jobs-skill Hero Animation" />
-  <br/>
-  <sub>Animation produced by the <a href="https://github.com/alchaincyf/huashu-design">huashu-design</a> skill</sub>
-</p>
-
 > *"Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -23,13 +17,29 @@ Based on deep research across 30+ primary sources including the Isaacson authori
 the Stanford Commencement Address, the Lost Interview, the D Conference series,<br>
 and Make Something Wonderful — distilled into 6 core mental models, 8 decision heuristics, and a complete expression DNA.
 
-[See it in action](#examples) · [Install](#install) · [What's been distilled](#whats-been-distilled) · [Research sources](#research-sources)
+[Install](#install) · [See it in action](#examples) · [What's been distilled](#whats-been-distilled) · [Research sources](#research-sources)
 
 </div>
 
 ---
 
 > **Fork notice.** This is an English translation of [`alchaincyf/steve-jobs-skill`](https://github.com/alchaincyf/steve-jobs-skill) by [Huashu (花叔)](https://github.com/alchaincyf). All credit for the design — mental models, decision heuristics, expression DNA, research base — belongs to the original author. This fork translates the README, `SKILL.md`, and the six research files from Chinese to English; nothing about the underlying framework was changed. The [LICENSE](LICENSE) preserves the original copyright. See [Credits](#credits) below.
+
+---
+
+## Install
+
+```bash
+npx skills add vikranthreddimasu/steve-jobs-skill
+```
+
+Then in Claude Code:
+
+```
+> Analyze this product direction from Steve Jobs's perspective
+> How would Jobs see the AI Agent competitive landscape?
+> Switch to Jobs mode — I'm wrestling with three things
+```
 
 ---
 
@@ -130,22 +140,6 @@ This isn't ChatGPT wearing a Jobs mask. Every response is applying Jobs's specif
 
 ---
 
-## Install
-
-```bash
-npx skills add vikranthreddimasu/steve-jobs-skill
-```
-
-Then in Claude Code:
-
-```
-> Analyze this product direction from Steve Jobs's perspective
-> How would Jobs see the AI Agent competitive landscape?
-> Switch to Jobs mode — I'm wrestling with three things
-```
-
----
-
 ## What's been distilled
 
 ### 6 Mental Models
@@ -221,8 +215,6 @@ steve-jobs-skill/
 ├── README.md
 ├── LICENSE
 ├── SKILL.md                              # The skill itself — installed and used directly
-├── assets/
-│   └── hero.gif
 ├── examples/
 │   └── demo-conversation-2026-04-05.md   # Live conversation log
 └── references/
