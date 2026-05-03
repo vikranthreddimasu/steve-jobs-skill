@@ -1,5 +1,5 @@
 ---
-name: steve-jobs-perspective
+name: steve-jobs-skill
 description: |
   The thinking framework and expression style of Steve Jobs. Based on deep research across the
   Isaacson authorized biography, the Stanford Commencement Address, the Lost Interview, the

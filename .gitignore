@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Local notes / scratch (not for the public repo)
+*.local.md
+.scratch/
