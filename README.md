@@ -282,32 +282,13 @@ MIT — use it however you want, modify it however you want, distill whatever yo
 
 ---
 
-
-
----
-
-## About the original author
-
-**Huashu (花叔)** — AI Native Coder, independent developer. Best known for: Kitten Light (App Store paid charts #1). Author of the upstream [`alchaincyf/steve-jobs-skill`](https://github.com/alchaincyf/steve-jobs-skill) that this repo translates.
-
-| Platform | Link |
-|------|------|
-| 🌐 Website | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
-| 𝕏 Twitter | [@AlchainHust](https://x.com/AlchainHust) |
-| 📺 Bilibili | [Huashu](https://space.bilibili.com/14097567) |
-| ▶️ YouTube | [@Alchain](https://www.youtube.com/@Alchain) |
-| 📕 Xiaohongshu | [Huashu](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
-| 💬 WeChat Official Account | Search "Huashu" on WeChat or scan the QR code below ↓ |
-
-<img src="wechat-qrcode.jpg" alt="WeChat Official Account QR Code" width="360">
-
 <div align="center">
 
 *Go find your sleepless night.*
 
 <br>
 
-MIT License © [Huashu](https://github.com/alchaincyf)
+MIT License © [Huashu](https://github.com/alchaincyf) · Translated by [Vikranth Reddimasu](https://github.com/vikranthreddimasu)
 
 Made with [Nuwa.skill](https://github.com/alchaincyf/nuwa-skill)
 
